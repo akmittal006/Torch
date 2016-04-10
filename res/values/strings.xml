@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Torch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alert_error">Error</string>
+    <string name="alert_flash_not_avail_message">Sorry! your phone doest support flash.</string>
+    <string name="alert_reminder_title">Its been one minute!</string>
+    <string name="alert_reminder_message">It has been one minute since you started using this app.Do you wish to continue?</string>
+    <string name="by_ankur_mittal">By: Ankur Mittal</string>
+    
+
+</resources>
